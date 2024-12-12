@@ -1,4 +1,5 @@
 Loan Default Prediction Using Machine Learning
+
 This project leverages machine learning to predict loan default risk using real-world data from a peer-to-peer lending company. It addresses data preprocessing, class imbalance, and feature selection while building and evaluating classification models.
 
 Key Features:
